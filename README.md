@@ -1,7 +1,7 @@
 # Loading Data into Apollo with DataStax Bulk Loader
 If you're trying to load data into Apollo from a CSV file or from an existing Cassandra table, then you've come to the right place. This example shows how to quickly load data into Apollo using the [DataStax Bulk Loader](https://docs.datastax.com/en/dsbulk/doc/index.html) (DSBulk for short).
 
-Contributors: [Dave Bechberger](https://github.com/bechbd) based on the work of [Brian Hess](https://github.com/brianmhess)
+Contributor(s): [Dave Bechberger](https://github.com/bechbd) based on the work of [Brian Hess](https://github.com/brianmhess)
 
 ## Objectives
 
