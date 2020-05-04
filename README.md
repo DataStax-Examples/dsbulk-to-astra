@@ -49,7 +49,7 @@ Here is an example command that will load the data.csv file into the `video_rati
 **Note** This loads the data from the file stored in the github repo so the machine running this command will need access to the internet.
 
 ```
-./dsbulk load -url https://raw.githubusercontent.com/DataStax-Examples/dsbulk-csv-to-apollo/master/data.csv -b /path/to/bundle.zip -k <KEYSPACE NAME> -t video_ratings_by_user -u <USERNAME> -p <PASSWORD>
+./dsbulk load -url https://raw.githubusercontent.com/DataStax-Examples/dsbulk-to-astra/master/data.csv -b /path/to/bundle.zip -k <KEYSPACE NAME> -t video_ratings_by_user -u <USERNAME> -p <PASSWORD>
 ```
 
 #### Loading from an existing Cassandra table
