@@ -1,0 +1,10 @@
+{
+  "name": "Loading Data into Astra with DataStax Bulk Loader",
+  "description": "If you're trying to load data into Astra from a CSV file or from an existing Cassandra table, then you've come to the right place. This example shows how to quickly load data into Astra using the DataStax Bulk Loader.",
+  "duration": "50 minutes",
+  "skillLevel": "Advanced",
+  "githubUrl": "https://github.com/DataStax-Examples/dsbulk-to-astra",
+  "tags": [{ "name": "labs", "color": "warning" }, { "name": "cql" }],
+  "category": "tools",
+  "priority": 2
+}
