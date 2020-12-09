@@ -33,9 +33,6 @@ To build and play with this app, follow the build instructions that are located 
 
 
 <!--- STARTEXCLUDE --->
-# Running {name}
-Follow the instructions below to get started.
-
 ## Prerequisites
 Let's do some initial setup.
 
