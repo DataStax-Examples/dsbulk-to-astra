@@ -6,7 +6,7 @@ If you're trying to load data into Astra from a CSV file or from an existing Cas
 <!--- ENDEXCLUDE --->
 
 
-![image](https://github.com/DataStax-Examples/dsbulk-to-astra/blob/master/screenshot.png)
+![image](https://raw.githubusercontent.com/DataStax-Examples/dsbulk-to-astra/master/screenshot.png)
 
 
 ## Objectives
