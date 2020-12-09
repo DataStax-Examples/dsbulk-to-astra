@@ -4,7 +4,11 @@
   "duration": "50 minutes",
   "skillLevel": "Advanced",
   "githubUrl": "https://github.com/DataStax-Examples/dsbulk-to-astra",
-  "tags": [{ "name": "labs", "color": "warning" }, { "name": "cql" }],
+  "tags": [
+    { "name": "labs", "color": "warning" },
+    { "name": "cql" },
+    { "name": "ds-bulk" }
+  ],
   "category": "tools",
   "priority": 2
 }
