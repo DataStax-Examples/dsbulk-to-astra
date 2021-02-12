@@ -24,9 +24,6 @@ The password is specified using the `-p <INSERT PASSWORD>` parameter on the comm
 This example only touches the tip of the iceberg of functionality. DSBulk has all the functionality to perform complex loading operations to Astra as it does to other DDAC and DSE clusters. Check out the docs below for details of the other things it can do:
 
 * [DataStax Bulk Loader Documentation](https://docs.datastax.com/en/dsbulk/doc/)
-* [DataStax Bulk Loader: Introduction and Loading](https://academy.datastax.com/content/datastax-bulk-loader-introduction-and-loading)
-* [DataStax Bulk Loader: More loading](https://academy.datastax.com/content/datastax-bulk-loader-more-loading)
-* [DataStax Bulk Loader: Common Settings](https://academy.datastax.com/content/datastax-bulk-loader-common-settings)
 
 ## Get Started
 To build and play with this app, follow the build instructions that are located here: [https://github.com/DataStax-Examples/dsbulk-to-astra](https://github.com/DataStax-Examples/dsbulk-to-astra#prerequisites)
