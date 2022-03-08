@@ -77,7 +77,7 @@ Let's do some initial setup by creating a serverless(!) database.
 ### Running on your local machine
 Make sure that you have:
 * DS Bulk v1.4.0 or greater
-* An Astra cluster with the schema ([from schema.cql](schema.cql)) loaded and credential information
+* An Astra cluster with the schema ([from schema.cql](https://raw.githubusercontent.com/DataStax-Examples/dsbulk-to-astra/master/schema.cql) loaded and credential information
     **Note** If you need further instruction on how to obtain the secure connect bundle for your Astra instance then please refer to the documentation located [here](https://docs.datastax.com/en/astra/aws/doc/dscloud/astra/dscloudObtainingCredentials.html).
 * A Cassandra cluster (optional if you want to load from Cassandra)
 
